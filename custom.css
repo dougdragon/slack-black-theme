@@ -260,8 +260,7 @@ span.c-message__body,
 		font-weight: bold;
 		color: var(--text) !important;
 	}
-	.c-message:hover, .c_message__body:hover, 
-	.c_message__content:hover, .c_message__gutter:hover{
+	.c-message:hover{
 	   background-color: var(--background-hover) !important;
 	   border-color: transparent;
 	   color: var(--text) !important;
