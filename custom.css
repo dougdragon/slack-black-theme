@@ -260,8 +260,7 @@ span.c-message__body,
 		font-weight: bold;
 		color: var(--text) !important;
 	}
-
-span.c-message__body:hover{
+.colpick_submit:hover{
    background-color: var(--background-hover) !important;
    border-color: transparent;
    color: var(--text) !important;
