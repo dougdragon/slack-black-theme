@@ -260,7 +260,7 @@ span.c-message__body,
 		font-weight: bold;
 		color: var(--text) !important;
 	}
-div.c-message:hover .c-message--light:hover, .c-message--adjacent:hover{
+div.c-virtual_list__item:hover{
    background-color: var(--background-hover) !important;
    border-color: transparent;
    color: var(--text) !important;
