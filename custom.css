@@ -280,6 +280,7 @@ div.c-virtual_list__item:hover, .c-message:hover, .c-message--light:hover,
 	}
 
 .panel .c-channel_insights__channel,
+.panel .c-channel_insights__channel .channel_link, 
 .panel .c-channel_insights .c-member__display-name{
 	color: var(--text-special) !important;
 }
