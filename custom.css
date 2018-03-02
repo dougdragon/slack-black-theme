@@ -276,6 +276,10 @@ div.c-virtual_list__item:hover, .c-message:hover, .c-message--light:hover,
 		color: white !important;
 	}
 
+.panel .c-channel_insights .c-member__display-name{
+	color: var(--text);
+}
+
 .mention_day_container_div .day_divider .day_divider_label {
    border: 1px solid var(--border-dim) !important;
 }
