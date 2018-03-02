@@ -260,12 +260,12 @@ span.c-message__body,
 		font-weight: bold;
 		color: var(--text) !important;
 	}
-.colpick_submit:hover{
-   background-color: var(--background-hover) !important;
-   border-color: transparent;
-   color: var(--text) !important;
-   height: 24px !important;
-}
+	.c-message__body:hover{
+	   background-color: var(--background-hover) !important;
+	   border-color: transparent;
+	   color: var(--text) !important;
+	   height: 24px !important;
+	}
 
 .mention_day_container_div .day_divider .day_divider_label {
    border: 1px solid var(--border-dim) !important;
