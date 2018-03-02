@@ -279,9 +279,9 @@ div.c-virtual_list__item:hover, .c-message:hover, .c-message--light:hover,
 		color: var(--text) !important;
 	}
 
-.panel .c-channel_insights__channel .channel_link,
+.panel .c-channel_insights__channel,
 .panel .c-channel_insights .c-member__display-name{
-	color: var(--text) !important;
+	color: var(--text-special) !important;
 }
 
 .mention_day_container_div .day_divider .day_divider_label {
