@@ -271,9 +271,13 @@ div.c-virtual_list__item:hover, .c-message:hover, .c-message--light:hover,
 
 #details_tab .feature_sli_channel_insights .channel_created_section .creator_link, 
 #details_tab .feature_sli_channel_insights .channel_purpose_section .channel_purpose_text, 
+.panel .c-member__display-name, .c-team__display-name, .c-usergroup__handle
 .panel .c-channel_insights__channel .channel_link, 
+#details_tab .channel_desktop_notifs, #details_tab .channel_push_notifs, 
+#details_tab .empty_pinned_items, #details_tab .empty_shared_files, 
+#details_tab .section_content.channel_purpose .channel_purpose_text,
 .panel .pinned_item .pin_file_title{
-		color: white !important;
+		color: var(--text) !important;
 	}
 
 .panel .c-channel_insights .c-member__display-name{
