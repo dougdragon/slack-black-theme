@@ -261,6 +261,13 @@ span.c-message__body,
 		color: var(--text) !important;
 	}
 
+span.c-message__body:hover{
+   background-color: var(--background-hover) !important;
+   border-color: transparent;
+   color: var(--text) !important;
+   height: 24px !important;
+}
+
 .mention_day_container_div .day_divider .day_divider_label {
    border: 1px solid var(--border-dim) !important;
 }
