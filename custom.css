@@ -19,7 +19,7 @@ limitations under the License.
    --primary: #CCC;
    --text: #CCC;
    --background: #111;
-   --background-elevated: #444;
+   --background-elevated: #333;
 
    /* These should be less important: */
    --background-hover: rgba(221, 221, 221, 0.1);
@@ -29,7 +29,7 @@ limitations under the License.
    --border-dim: #666;
    --border-bright: var(--primary);
 
-   --text-bright: #BBB;
+   --text-bright: #DDD;
    --text-special: var(--primary);
 
    --scrollbar-background: #000;
