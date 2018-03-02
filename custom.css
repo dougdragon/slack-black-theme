@@ -269,9 +269,12 @@ div.c-virtual_list__item:hover, .c-message:hover, .c-message--light:hover,
 	   color: var(--text) !important;
 	}
 
-.panel .channel_purpose_text, .panel .c-channel_insights__channel .channel_link{
-	color: white;
-}
+#details_tab .feature_sli_channel_insights .channel_created_section .creator_link, 
+#details_tab .feature_sli_channel_insights .channel_purpose_section .channel_purpose_text, 
+.panel .c-channel_insights__channel .channel_link, 
+.panel .pinned_item .pin_file_title{
+		color: white;
+	}
 
 .mention_day_container_div .day_divider .day_divider_label {
    border: 1px solid var(--border-dim) !important;
